@@ -1,0 +1,10 @@
+main.c:76:6:read_k1	8	static
+main.c:88:6:read_k2	8	static
+main.c:100:10:read_temp	24	static
+main.c:128:5:main	8	static
+main.c:220:6:SystemClock_Config	96	static
+main.c:265:13:MX_SPI1_Init	8	static
+main.c:305:13:MX_USART1_UART_Init	8	static
+main.c:340:13:MX_USART2_UART_Init	8	static
+main.c:375:13:MX_GPIO_Init	56	static
+main.c:421:6:Error_Handler	8	static

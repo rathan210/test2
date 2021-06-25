@@ -1,0 +1,3 @@
+MAX31855.c:42:6:GetempData	8	static
+MAX31855.c:88:6:TempError	16	static
+MAX31855.c:125:13:ReadTemperature	32	static
